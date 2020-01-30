@@ -1,5 +1,6 @@
 
-public class NewSort {
+public class inssort
+{
 	public static void main(String[] args) 
 	{
 		// TODO Auto-generated method stub
@@ -32,8 +33,5 @@ public class NewSort {
         }    
 
 	}
-
-
-	
 
 }
